@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb868ea8-9c2a-4064-b6d7-0fda8b09b86d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions1/Q01_CountsOfCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions1/Q02_MergeCertainCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions1/Q03_PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions1/Q04_CountOfEnterCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions1/Q05_ForFlashBack_Q01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions2/JavaMathClassMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions2/Q01_ArmstrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions2/Q02_ArmstrongNumber_4Digits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions2/Q03_FibonacciListNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions2/Q04_PerfectNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions2/Q05_DifferenceBetweenArray_LargestAndSmallestElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions3/Q01_ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions3/Q02_Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions3/Q03_WhileCountSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions3/Q04_FrequencyOfCertainChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions3/Q05_ArrayListTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions3/Q06_MultiDimensolArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions4/Q01_UniqeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions4/Q02_CreateRandomList_SetList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions4/Q03_HackerLanguage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions4/Q04_TestKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions4/Q05_SpecialCharRemoveArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions4/Q06_MultipleMethodVarargs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions5/Q01_UsingDoWhilePrintNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions5/Q02_PrintEvenNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions5/Q03_CountFactors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions5/Q04_PrintVowelsOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions5/Q05_UsingDoWhileWithCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions5/Q06_CountsOfRepeatingElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions6/Q01_FrequencyOfGivenCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions6/Q02_AtbashCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions6/Q03_OddIndexNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions6/Q04_SurviveMonkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions6/Q05_ExponentialNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions6/Q06_DuplicateValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions7/Q01_UseContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions7/Q02_TreeShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions7/Q03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions7/Q03_IFElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions7/Q04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions7/Q04_CreateMethodWithArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions7/Q05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions7/Q05_Printing2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions7/Q06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions7/Q06_PrintArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions7/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions7/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions8/Q01_Calisma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions8/Q01_SetTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions8/Q02_2D_CollectionTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions8/Q02_Calisma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions8/Q03_Calisma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions8/Q03_CollectionMethodTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions8/Q04_Calisma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions8/Q04_MapTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions8/Q05_WrapperClassTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions8/Q06_AddedOrNotTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions8/Q07_ConvertingCollectionsTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions9/Q01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions9/Q01_MapKeysValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions9/Q02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions9/Q02_MapKeySet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions9/Q03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions9/Q03_PrintMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions9/Q04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions9/Q04_PrintMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions9/Q05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions9/Q05_PrintMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions9/Q06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions9/Q06_TreeMapFrekans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions9/Q07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions9/Q07_StoreMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions9/Q08_FileText" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interviewQuestions9/Q08_ReadFileTxt.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MF0Ovvss30pL5YcEExo6MbhNTD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb868ea8-9c2a-4064-b6d7-0fda8b09b86d" name="Changes" comment="" />
+      <created>1677347994304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677347994304</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
